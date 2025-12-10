@@ -3,3 +3,5 @@ This repository contains all the code used or produced during final year project
 
 source fypenv/bin/activate deactivate 
 TODO: Shift to UV
+
+The Datasets/ and Results/ directories were excluded from git because they contain large datasets and resultant data linked to those datasets.
