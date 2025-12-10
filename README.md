@@ -1,2 +1,5 @@
 # final_year_project
-Repostitory containing final year project files for thesis. The topic was "Dimension Reduction for Big Data in Power Systems"
+This repository contains all the code used or produced during final year project titled "Dimension Reduction for Big Data in Power Systems".
+
+source fypenv/bin/activate deactivate 
+TODO: Shift to UV
